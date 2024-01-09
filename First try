@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Date Invitation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+
+        h1 {
+            color: #ff0066;
+        }
+
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #ff0066;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Special Date Invitation</h1>
+    <p>Hey [Vaishnavi],</p>
+    <p>I'd love to spend some quality time with you. Would you go on a date with me?</p>
+    <button onclick="alert('Yay! Can't wait!')">Yes, I'd love to!</button>
+</body>
+</html>
